@@ -1,6 +1,6 @@
 # Quick Refernce Files
 
 
-Quick Reference Files I have made.
+Quick reference files I have made.
 
 
